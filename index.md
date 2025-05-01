@@ -35,4 +35,3 @@ My GitHub page is http://github.com/ATalaveraSolache.
     and would have to guess that secrect number. This was an entertaining
     lab because we it was an introduction to streams, and saving information 
     between files
-
